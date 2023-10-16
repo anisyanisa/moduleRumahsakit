@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 
 --
 -- Database: `rumahsakit`
---
+-- Creative Commons. Anisya
 
 -- --------------------------------------------------------
 
